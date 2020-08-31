@@ -1,0 +1,27 @@
+{
+  "name": "el-bigtable",
+  "version": "1.0.0",
+  "description": "element-ui el-table支持百万数据的版本",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen-junyi/el-bigtable.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "el-table",
+    "el-bigtable"
+  ],
+  "author": "陈俊义 629162344@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "bugs": {
+    "url": "https://github.com/chen-junyi/el-bigtable/issues"
+  },
+  "homepage": "https://github.com/chen-junyi/el-bigtable#readme"
+}
